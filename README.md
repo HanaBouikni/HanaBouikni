@@ -9,7 +9,7 @@
 
 ---
 
-## 🛡️ À propos
+## À propos
 
 ```yaml
 name:     Hana Bouikni
@@ -21,7 +21,7 @@ Je conçois des **laboratoires de sécurité de bout en bout**. Je monte l'infra
 
 ---
 
-## 🔄 Méthodologie
+## Méthodologie
 
 ```mermaid
 flowchart LR
@@ -40,7 +40,7 @@ flowchart LR
 
 ---
 
-## 🏆 Projet phare : [Mini-SOC de détection Active Directory](https://github.com/HanaBouikni/mini-soc-ad-detection)
+## Projet phare : [Mini-SOC de détection Active Directory](https://github.com/HanaBouikni/mini-soc-ad-detection)
 
 ```mermaid
 flowchart LR
@@ -58,7 +58,7 @@ flowchart LR
 
 ---
 
-## 🚀 Projets
+## Projets
 
 <table>
 <tr>
@@ -118,7 +118,7 @@ Messagerie client/serveur **chiffrée et signée** sur le modèle PGP.
 </table>
 
 <details>
-<summary><b>🧪 Autres laboratoires</b></summary>
+<summary><b>Autres laboratoires</b></summary>
 <br/>
 
 | Lab | Thème |
@@ -134,7 +134,7 @@ Messagerie client/serveur **chiffrée et signée** sur le modèle PGP.
 
 ---
 
-## 🧰 Outils et technologies
+## Outils et technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows,bash,powershell,python,c,docker,terraform,nginx,git,githubactions&perline=13" alt="Technologies" />
@@ -156,7 +156,7 @@ Messagerie client/serveur **chiffrée et signée** sur le modèle PGP.
 
 ---
 
-## 📊 Statistiques GitHub
+## Statistiques GitHub
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HanaBouikni/HanaBouikni/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="98%" alt="Profil" />
@@ -172,7 +172,7 @@ Messagerie client/serveur **chiffrée et signée** sur le modèle PGP.
 
 ---
 
-## 🐍 Contributions
+## Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HanaBouikni/HanaBouikni/output/snake-dark.svg" />
