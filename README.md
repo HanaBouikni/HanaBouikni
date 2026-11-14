@@ -1,5 +1,7 @@
 <h1 align="center">Hana Bouikni</h1>
-<p align="center"><b>Cybersécurité</b> · SOC &amp; détection · Forensique · Sécurité réseau · Cloud security</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Cybers%C3%A9curit%C3%A9;SOC+%26+d%C3%A9tection;Forensique+%26+r%C3%A9ponse+aux+incidents;S%C3%A9curit%C3%A9+r%C3%A9seau;Cloud+security" alt="Cybersécurité · SOC &amp; détection · Forensique · Sécurité réseau · Cloud security" />
+</p>
 
 ---
 
