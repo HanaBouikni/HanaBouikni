@@ -7,11 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Cybers%C3%A9curit%C3%A9;SOC+%26+d%C3%A9tection;Forensique+%26+r%C3%A9ponse+aux+incidents;S%C3%A9curit%C3%A9+r%C3%A9seau;Cloud+security" alt="Cybersécurité · SOC &amp; détection · Forensique · Sécurité réseau · Cloud security" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HanaBouikni&label=Profile%20views&color=58A6FF&style=flat-square" alt="Vues du profil" />
-  <img src="https://img.shields.io/github/followers/HanaBouikni?label=Followers&style=flat-square&color=0F3460" alt="Followers" />
-</p>
-
 ---
 
 ## 🛡️ À propos
@@ -45,7 +40,7 @@ flowchart LR
 
 ---
 
-## 🏆 Projet phare : Mini-SOC de détection Active Directory
+## 🏆 Projet phare : [Mini-SOC de détection Active Directory](https://github.com/HanaBouikni/mini-soc-ad-detection)
 
 ```mermaid
 flowchart LR
@@ -61,10 +56,6 @@ flowchart LR
     style R fill:#2d1b4e,stroke:#b392f0,color:#fff
 ```
 
-<p align="center">
-  <a href="https://github.com/HanaBouikni/mini-soc-ad-detection"><img src="https://img.shields.io/badge/Voir_le_projet-mini--soc--ad--detection-58A6FF?style=for-the-badge&logo=github" alt="mini-soc-ad-detection" /></a>
-</p>
-
 ---
 
 ## 🚀 Projets
@@ -73,7 +64,7 @@ flowchart LR
 <tr>
 <td width="50%" valign="top">
 
-### 📡 [WPA2-Enterprise](https://github.com/HanaBouikni/Securing-a-WLAN-with-WPA2-Enterprise)
+### [WPA2-Enterprise](https://github.com/HanaBouikni/Securing-a-WLAN-with-WPA2-Enterprise)
 Sécurisation d'un WLAN en 802.1X avec **Windows NPS (RADIUS)**, **AD CS (PKI)** et **hostapd**.
 
 `802.1X` `RADIUS` `PKI` `PowerShell`
@@ -81,7 +72,7 @@ Sécurisation d'un WLAN en 802.1X avec **Windows NPS (RADIUS)**, **AD CS (PKI)**
 </td>
 <td width="50%" valign="top">
 
-### 🌐 [MPLS L3VPN sous GNS3](https://github.com/HanaBouikni/MPLS-L3VPN-sous-GNS3)
+### [MPLS L3VPN sous GNS3](https://github.com/HanaBouikni/MPLS-L3VPN-sous-GNS3)
 Réseau opérateur **BGP/MPLS VPN** (RFC 4364) avec deux clients isolés par **VRF** sur Cisco IOS.
 
 `MPLS` `BGP` `OSPF` `LDP` `VRF`
@@ -91,7 +82,7 @@ Réseau opérateur **BGP/MPLS VPN** (RFC 4364) avec deux clients isolés par **V
 <tr>
 <td width="50%" valign="top">
 
-### 🔥 [Log4Shell Incident Report](https://github.com/HanaBouikni/Log4Shell-Incident-Report-CVE-2021-44228)
+### [Log4Shell Incident Report](https://github.com/HanaBouikni/Log4Shell-Incident-Report-CVE-2021-44228)
 Réponse à **CVE-2021-44228** : détection JNDI, confinement, éradication, règles **WAF / YARA** et IOCs.
 
 `Incident Response` `YARA` `WAF`
@@ -99,7 +90,7 @@ Réponse à **CVE-2021-44228** : détection JNDI, confinement, éradication, rè
 </td>
 <td width="50%" valign="top">
 
-### 🧠 [Volatility 3 Forensics](https://github.com/HanaBouikni/Volatility3-Forensics-Incident-Response)
+### [Volatility 3 Forensics](https://github.com/HanaBouikni/Volatility3-Forensics-Incident-Response)
 Exploitation de **CVE-2021-3156**, capture mémoire **LiME** et analyse **Volatility 3**.
 
 `Memory Forensics` `LiME` `Hydra`
@@ -109,7 +100,7 @@ Exploitation de **CVE-2021-3156**, capture mémoire **LiME** et analyse **Volati
 <tr>
 <td width="50%" valign="top">
 
-### ☁️ [Cloud IAM Security Lab](https://github.com/HanaBouikni/cloud-iam-security-lab)
+### [Cloud IAM Security Lab](https://github.com/HanaBouikni/cloud-iam-security-lab)
 Identités, politiques et **moindre privilège** en Infrastructure as Code avec **Terraform**.
 
 `IAM` `Terraform` `IaC`
@@ -117,7 +108,7 @@ Identités, politiques et **moindre privilège** en Infrastructure as Code avec 
 </td>
 <td width="50%" valign="top">
 
-### 🔐 [Secure PGP Messaging](https://github.com/HanaBouikni/Secure-PGP-Messaging)
+### [Secure PGP Messaging](https://github.com/HanaBouikni/Secure-PGP-Messaging)
 Messagerie client/serveur **chiffrée et signée** sur le modèle PGP.
 
 `Cryptographie` `PGP` `Python`
